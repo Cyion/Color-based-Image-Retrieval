@@ -1,1 +1,1 @@
-# multimedia-databases
+# Color-based Image Retrieval
